@@ -12,6 +12,8 @@
 
 5.[2023]  AniFaceGAN [project](https://yuewuhkust.github.io/AniFaceGAN/) 
 
+6.[2023]WACV23_TSNet [github](https://github.com/nihaomiao/WACV23_TSNet)
+
 
 
 # 3D知识
