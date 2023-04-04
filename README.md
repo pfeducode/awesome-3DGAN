@@ -10,6 +10,8 @@
 
 4.[2023]styleMash [github](https://github.com/StelaBou/StyleMask)
 
+5.[2023]  AniFaceGAN [project](https://yuewuhkust.github.io/AniFaceGAN/) 
+
 
 
 # 3D知识
@@ -19,4 +21,6 @@
    使用神经渲染器的单图像 3D 重建
    
 2. 渲染 [github](https://github.com/ssloy/tinyrenderer)
+
+
 
