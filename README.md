@@ -1,10 +1,16 @@
-# 一些3D项目
+# Theory
+
+[2022 ACM TOG] PTI [github](https://github.com/danielroich/PTI)
+
+[2022]eg3d [github](https://github.com/NVlabs/eg3d) 
+
+eg3d_projector [github](https://github.com/oneThousand1000/EG3D-projector)
+
+
+
+# Projects
 
 1.get3D [github](https://github.com/nv-tlabs/GET3D)
-
-里面有一些3D建模知识
-
-2.eg3d [github](https://github.com/NVlabs/eg3d) 
 
 3.3DFaceshop [github](https://github.com/junshutang/3DFaceShop)
 
@@ -16,13 +22,13 @@
 
 
 
-# 3D知识
+
+
+# 3D knowledge
 
 1. [mesh_reconstruction]Single-Image 3D Reconstruction using Neural Renderer [github](https://github.com/hiroharu-kato/mesh_reconstruction)
 
-   使用神经渲染器的单图像 3D 重建
-   
-2. 渲染 [github](https://github.com/ssloy/tinyrenderer)
+2. render [github](https://github.com/ssloy/tinyrenderer)
 
 
 
