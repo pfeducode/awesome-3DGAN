@@ -24,6 +24,10 @@ interfaceGAN
 
 
 
+# 3DMM
+
+1.insightface [github](https://github.com/deepinsight/insightface/tree/master/reconstruction/PBIDR) 
+
 
 
 # 3D knowledge
@@ -31,7 +35,7 @@ interfaceGAN
 1. [mesh_reconstruction]Single-Image 3D Reconstruction using Neural Renderer [github](https://github.com/hiroharu-kato/mesh_reconstruction)
 2. render [github](https://github.com/ssloy/tinyrenderer)
 
-
+   
 
 # Organization
 
