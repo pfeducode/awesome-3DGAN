@@ -16,7 +16,7 @@ interfaceGAN
 
 3.3DFaceshop [github](https://github.com/junshutang/3DFaceShop)
 
-4.[2023]styleMash [github](https://github.com/StelaBou/StyleMask)
+4.[2023]styleMask [github](https://github.com/StelaBou/StyleMask)
 
 5.[2023]  AniFaceGAN [project](https://yuewuhkust.github.io/AniFaceGAN/) 
 
